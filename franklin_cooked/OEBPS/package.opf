@@ -3,18 +3,18 @@
          unique-identifier="pub-id" 
 		 prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title id="title">franklin</dc:title>
+    <dc:title id="title">Heads and Tails</dc:title>
     <meta refines="#title" property="title-type">main</meta>
-    <dc:creator id="creator">Ann Author</dc:creator>
-    <meta refines="#creator" property="file-as">Author, Ann</meta>
+    <dc:creator id="creator">John Cobo</dc:creator>
+    <meta refines="#creator" property="file-as">Cobo, John</meta>
     <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-    <dc:identifier id="pub-id">jcobobooks.com.epub-samples.demo</dc:identifier>
-	<dc:identifier id="uid">urn:uuid:57b681b5-137b-4791-b5c5-88fdcfaa41ee</dc:identifier>
+    <dc:identifier id="pub-id">jcobobooks.com.headsandtails</dc:identifier>
+	<dc:identifier id="uid">urn:uuid:57b681b5-137b-4791-b5c5-99fdcfaa41ee</dc:identifier>
     <meta refines="#uid" property="identifier-type" scheme="onix:codelist5">ISBN</meta>
     <dc:language>en-US</dc:language>
     <meta property="dcterms:modified">2012-01-18T12:47:00Z</meta>
-    <dc:publisher>A. Publisher</dc:publisher>
-    <dc:contributor id="contrib1">Collab Orator</dc:contributor>
+    <dc:publisher>John Cobo</dc:publisher>
+    <dc:contributor id="contrib1">Sarah Cobo</dc:contributor>
     <meta refines="#contrib1" property="role" scheme="marc:relators">mrk</meta>
     <dc:rights>This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.</dc:rights>        
 	<meta property="ibooks:specified-fonts">true</meta>
@@ -36,9 +36,37 @@
     <item id="chap001" href="content/chap001.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap002" href="content/chap002.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap003" href="content/chap003.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap004" href="content/chap004.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap005" href="content/chap005.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap006" href="content/chap006.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap007" href="content/chap007.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap008" href="content/chap008.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap009" href="content/chap009.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap010" href="content/chap010.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap011" href="content/chap011.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap012" href="content/chap012.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap013" href="content/chap013.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap014" href="content/chap014.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap015" href="content/chap015.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap016" href="content/chap016.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap017" href="content/chap017.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap018" href="content/chap018.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap019" href="content/chap019.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap020" href="content/chap020.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap021" href="content/chap021.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap022" href="content/chap022.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap023" href="content/chap023.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap024" href="content/chap024.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap025" href="content/chap025.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap026" href="content/chap026.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap027" href="content/chap027.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap028" href="content/chap028.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap029" href="content/chap029.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap030" href="content/chap030.xhtml"  media-type="application/xhtml+xml" />
 
     <item id="description"  href="description.xhtml" media-type="application/xhtml+xml" />
     <item id="about_author"  href="about_author.xhtml" media-type="application/xhtml+xml" />
+    <item id="copyright"  href="copyright.xhtml" media-type="application/xhtml+xml" />
     
     <item id="img1" href="images/moncrieff.jpg" media-type="image/jpeg" />
     <item id="img2" href="images/chadwick.jpg" media-type="image/jpeg" />
@@ -83,7 +111,35 @@
     <itemref idref="chap001" linear="no"/>
     <itemref idref="chap002" linear="no"/>
     <itemref idref="chap003" linear="no"/>
+    <itemref idref="chap004" linear="no"/>
+    <itemref idref="chap005" linear="no"/>
+    <itemref idref="chap006" linear="no"/>
+    <itemref idref="chap007" linear="no"/>
+    <itemref idref="chap008" linear="no"/>
+    <itemref idref="chap009" linear="no"/>
+    <itemref idref="chap010" linear="no"/>
+    <itemref idref="chap011" linear="no"/>
+    <itemref idref="chap012" linear="no"/>
+    <itemref idref="chap013" linear="no"/>
+    <itemref idref="chap014" linear="no"/>
+    <itemref idref="chap015" linear="no"/>
+    <itemref idref="chap016" linear="no"/>
+    <itemref idref="chap017" linear="no"/>
+    <itemref idref="chap018" linear="no"/>
+    <itemref idref="chap019" linear="no"/>
+    <itemref idref="chap020" linear="no"/>
+    <itemref idref="chap021" linear="no"/>
+    <itemref idref="chap022" linear="no"/>
+    <itemref idref="chap023" linear="no"/>
+    <itemref idref="chap024" linear="no"/>
+    <itemref idref="chap025" linear="no"/>
+    <itemref idref="chap026" linear="no"/>
+    <itemref idref="chap027" linear="no"/>
+    <itemref idref="chap028" linear="no"/>
+    <itemref idref="chap029" linear="no"/>
+    <itemref idref="chap030" linear="no"/>
     <itemref idref="description" linear="no"/>
     <itemref idref="about_author" linear="no"/>
+    <itemref idref="copyright" linear="no"/>
   </spine>
 </package>
