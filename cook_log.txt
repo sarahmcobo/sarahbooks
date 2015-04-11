@@ -1,16 +1,59 @@
-****starting to cook***** at 2015-04-11 16:25:21.459323 (Ireland time)
+****starting to cook***** at 2015-04-11 17:14:08.172378 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_sarahbooks
 deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
-NO RECIPE FOUND AT: /home/ubuntu/ePubChef_sarahbooks/headstails_raw/headstails_recipe.txt
-Creating new recipe for: headstails
-Opening Point Of Sale data for: headstails_raw/headstails_pos_data.txt
-No Point of Sale data this time.
+NO RECIPE FOUND AT: /home/ubuntu/ePubChef_sarahbooks/franklin_raw/franklin_recipe.txt
+Creating new recipe for: franklin
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/franklin_cooked
+Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
 front_matter count: 4
-creating new empty chapter:010
-creating new empty chapter:020
-creating new empty chapter:030
 chapter count: 3
-ePubChef is finished, see /headstails_served.
-zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/headstails_served/headstails.epub
+ePubChef is finished, see /franklin_served.
+zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/franklin_served/franklin.epub
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/franklin_served
+Epubcheck Version 3.0.1
+
+Validating against EPUB version 3.0
+No errors or warnings detected.
+
+
+*************************************************************
+ Amazon kindlegen(Linux) V2.9 build 1028-0897292 
+ A command line e-book compiler 
+ Copyright Amazon.com and its Affiliates 2014 
+*************************************************************
+
+Info(prcgen):I1047: Added metadata dc:Title        "franklin"
+Info(prcgen):I1047: Added metadata dc:Creator      "Ann Author"
+Info(prcgen):I1047: Added metadata dc:Publisher    "A. Publisher"
+Info(prcgen):I1047: Added metadata dc:Contributor  "Collab Orator"
+Info(prcgen):I1047: Added metadata dc:Rights       "This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license."
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-jIIL6N/OEBPS/cover.xhtml
+Info(prcgen):I1002: Parsing files  0000008
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-jIIL6N/OEBPS/css/epub-stylesheet.css
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-jIIL6N/OEBPS/css/epub-stylesheet.css
+Info(prcgen):I1016: Building enhanced PRC file
+Info(prcgen):I1006: Resolving hyperlinks
+Info(prcgen):I1007: Resolving mediaidlinks
+Info(prcgen):I1011: Writing mediaidlinks
+Info(prcgen):I1009: Resolving guide items
+Info(prcgen):I1008: Resolving start reading location
+Info(prcgen):I1015: Building PRC file
+Info(pagemap):I8000: No Page map found in the book
+Info(prcgen):I1045: Computing UNICODE ranges used in the book
+Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
+Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [201C..201E]
+Info(prcgen):I1017: Building PRC file, record count:   0000009
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  54.46%
+Info(prcgen):I1040: The document identifier is: "franklin"
+Info(prcgen):I1041: The file format version is V6
+Info(prcgen):I1031: Saving PRC file
+Info(prcgen):I1032: PRC built successfully
+Info(prcgen):I1017: Building PRC file, record count:   0000011
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  53.24%
+Info(prcgen):I1041: The file format version is V8
+Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000272KB
+Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000333KB
+Info(prcgen):I1036: Mobi file built successfully
+
 All done
