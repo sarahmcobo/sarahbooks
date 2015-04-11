@@ -1,0 +1,3 @@
+{code: 6DKWW02C, country: USA, date: '2015-03-16', epub_email: john.cobo@gmail.com,
+  kindle_email: john.cobo_42@kindle.com, price: $4.99, purchaser: A. Reader, stats_url: 'http://jcobobooks.com/frt553tge3ss6/',
+  transaction_id: frt553tge3ss6}
