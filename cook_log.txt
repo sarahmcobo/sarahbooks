@@ -1,15 +1,16 @@
-****starting to cook***** at 2015-04-11 12:46:37.976462 (Ireland time)
+****starting to cook***** at 2015-04-11 16:25:21.459323 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_sarahbooks
-NO RECIPE FOUND AT: /home/ubuntu/ePubChef_sarahbooks/franklin_raw/franklin_recipe.txt
-Creating new recipe for: franklin
-Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
+NO RECIPE FOUND AT: /home/ubuntu/ePubChef_sarahbooks/headstails_raw/headstails_recipe.txt
+Creating new recipe for: headstails
+Opening Point Of Sale data for: headstails_raw/headstails_pos_data.txt
 No Point of Sale data this time.
 front_matter count: 4
 creating new empty chapter:010
 creating new empty chapter:020
 creating new empty chapter:030
 chapter count: 3
-ePubChef is finished, see /franklin_served.
-zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/franklin_served/franklin.epub
+ePubChef is finished, see /headstails_served.
+zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/headstails_served/headstails.epub
 All done
