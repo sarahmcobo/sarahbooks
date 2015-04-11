@@ -10,10 +10,10 @@ Info(prcgen):I1047: Added metadata dc:Creator      "Ann Author"
 Info(prcgen):I1047: Added metadata dc:Publisher    "A. Publisher"
 Info(prcgen):I1047: Added metadata dc:Contributor  "Collab Orator"
 Info(prcgen):I1047: Added metadata dc:Rights       "This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license."
-Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-PgnwqE/OEBPS/cover.xhtml
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-NNsmIS/OEBPS/cover.xhtml
 Info(prcgen):I1002: Parsing files  0000008
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-PgnwqE/OEBPS/css/epub-stylesheet.css
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-PgnwqE/OEBPS/css/epub-stylesheet.css
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-NNsmIS/OEBPS/css/epub-stylesheet.css
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-NNsmIS/OEBPS/css/epub-stylesheet.css
 Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1006: Resolving hyperlinks
 Info(prcgen):I1007: Resolving mediaidlinks
