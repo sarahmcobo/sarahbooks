@@ -1,4 +1,4 @@
-****starting to cook***** at 2015-04-11 18:02:46.073398 (Ireland time)
+****starting to cook***** at 2015-04-12 09:20:10.618625 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_sarahbooks
 deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
@@ -60,10 +60,10 @@ Info(prcgen):I1047: Added metadata dc:Creator      "John Cobo"
 Info(prcgen):I1047: Added metadata dc:Publisher    "John Cobo"
 Info(prcgen):I1047: Added metadata dc:Contributor  "Sarah Cobo"
 Info(prcgen):I1047: Added metadata dc:Rights       "This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license."
-Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-LgoGwX/OEBPS/cover.xhtml
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-FVmxZ1/OEBPS/cover.xhtml
 Info(prcgen):I1002: Parsing files  0000036
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-LgoGwX/OEBPS/css/epub-stylesheet.css
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-LgoGwX/OEBPS/css/epub-stylesheet.css
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-FVmxZ1/OEBPS/css/epub-stylesheet.css
+Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-FVmxZ1/OEBPS/css/epub-stylesheet.css
 Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1006: Resolving hyperlinks
 Info(prcgen):I1007: Resolving mediaidlinks
