@@ -154,4 +154,3 @@ back_matter:
         - name: description
         - name: about_author
         - name: copyright
-
