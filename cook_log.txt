@@ -1,4 +1,4 @@
-****starting to cook***** at 2015-04-12 09:20:10.618625 (Ireland time)
+****starting to cook***** at 2015-04-13 19:53:28.982566 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_sarahbooks
 deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
@@ -7,7 +7,7 @@ deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarah
 Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
 front_matter count: 4
 chapter count: 30
-PART: {'part_name': 'Part One', 'playorder': 5}
+PART: {'playorder': 5, 'part_name': 'Part One'}
   CHAPTER:010
   CHAPTER:020
   CHAPTER:030
@@ -18,9 +18,9 @@ PART: {'part_name': 'Part One', 'playorder': 5}
   CHAPTER:080
   CHAPTER:090
   CHAPTER:100
-PART: {'part_name': 'Part Two', 'playorder': 16}
+PART: {'playorder': 16, 'part_name': 'Part Two'}
   CHAPTER:110
-PART: {'part_name': 'Part Three', 'playorder': 18}
+PART: {'playorder': 18, 'part_name': 'Part Three'}
   CHAPTER:120
   CHAPTER:130
   CHAPTER:140
@@ -43,50 +43,4 @@ PART: {'part_name': 'Part Three', 'playorder': 18}
 ePubChef is finished, see /franklin_served.
 zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/franklin_served/franklin.epub
 deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/franklin_served
-Epubcheck Version 3.0.1
-
-Validating against EPUB version 3.0
-No errors or warnings detected.
-
-
-*************************************************************
- Amazon kindlegen(Linux) V2.9 build 1028-0897292 
- A command line e-book compiler 
- Copyright Amazon.com and its Affiliates 2014 
-*************************************************************
-
-Info(prcgen):I1047: Added metadata dc:Title        "Heads and Tails"
-Info(prcgen):I1047: Added metadata dc:Creator      "John Cobo"
-Info(prcgen):I1047: Added metadata dc:Publisher    "John Cobo"
-Info(prcgen):I1047: Added metadata dc:Contributor  "Sarah Cobo"
-Info(prcgen):I1047: Added metadata dc:Rights       "This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license."
-Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /tmp/mobi-FVmxZ1/OEBPS/cover.xhtml
-Info(prcgen):I1002: Parsing files  0000036
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-width' in file: /tmp/mobi-FVmxZ1/OEBPS/css/epub-stylesheet.css
-Warning(htmlprocessor):W28001: CSS style specified in content is not supported by Kindle readers. Removing the CSS property: 'max-height' in file: /tmp/mobi-FVmxZ1/OEBPS/css/epub-stylesheet.css
-Info(prcgen):I1016: Building enhanced PRC file
-Info(prcgen):I1006: Resolving hyperlinks
-Info(prcgen):I1007: Resolving mediaidlinks
-Info(prcgen):I1011: Writing mediaidlinks
-Info(prcgen):I1009: Resolving guide items
-Info(prcgen):I1008: Resolving start reading location
-Info(prcgen):I1015: Building PRC file
-Info(pagemap):I8000: No Page map found in the book
-Info(prcgen):I1045: Computing UNICODE ranges used in the book
-Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
-Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [201C..201E]
-Info(prcgen):I1046: Found UNICODE range: Latin-1 Supplement [A0..FF]
-Info(prcgen):I1017: Building PRC file, record count:   0000110
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  54.74%
-Info(prcgen):I1040: The document identifier is: "Heads_and_Tails"
-Info(prcgen):I1041: The file format version is V6
-Info(prcgen):I1031: Saving PRC file
-Info(prcgen):I1032: PRC built successfully
-Info(prcgen):I1017: Building PRC file, record count:   0000119
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  54.47%
-Info(prcgen):I1041: The file format version is V8
-Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000495KB
-Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000573KB
-Info(prcgen):I1036: Mobi file built successfully
-
 All done
