@@ -1,4 +1,4 @@
-****starting to cook***** at 2015-04-13 19:53:28.982566 (Ireland time)
+****starting to cook***** at 2015-04-20 20:13:43.257622 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_sarahbooks
 deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
@@ -7,7 +7,7 @@ deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarah
 Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
 front_matter count: 4
 chapter count: 30
-PART: {'playorder': 5, 'part_name': 'Part One'}
+PART: {'part_name': 'Part One', 'playorder': 5}
   CHAPTER:010
   CHAPTER:020
   CHAPTER:030
@@ -18,9 +18,9 @@ PART: {'playorder': 5, 'part_name': 'Part One'}
   CHAPTER:080
   CHAPTER:090
   CHAPTER:100
-PART: {'playorder': 16, 'part_name': 'Part Two'}
+PART: {'part_name': 'Part Two', 'playorder': 16}
   CHAPTER:110
-PART: {'playorder': 18, 'part_name': 'Part Three'}
+PART: {'part_name': 'Part Three', 'playorder': 18}
   CHAPTER:120
   CHAPTER:130
   CHAPTER:140
