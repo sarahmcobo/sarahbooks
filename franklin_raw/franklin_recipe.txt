@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 title: franklin
 author: Ann Author
@@ -17,11 +18,33 @@ subjects:
       - name: PUBLISHING
 
 front_matter: # must include "cover", "title_page", and "table_of_contents" (in any order)
+=======
+file_name: headsandtails 
+title: Heads and Tails
+author: John Cobo
+file_as: Cobo, John
+identifier: jcobobooks.com.headsandtails
+coverdesign: Erin Cobo
+publish_date: 2015-02-01
+uuid: urn:uuid:57b681b5-137b-4791-b5c5-99fdcfaa41ee
+publisher: John Cobo
+contributor: Sarah Cobo
+attributionURL: http://cobobook.com/about
+auto_dropcaps: True
+meta_descn: A present day Sci-fi with historical undertones.
+subjects: 
+      - name: FICTION
+      - name: SCIENCE
+      - name: HISTORY
+
+front_matter:
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
      - name: cover
      - name: title_page
      - name: table_of_contents
      - name: dedication
 
+<<<<<<< HEAD
 #parts:
 #     - part_name: Part One
 #     - part_name: Part Two
@@ -42,3 +65,137 @@ chapters:
 back_matter: 
      - name: description
      - name: about_author
+=======
+parts:
+     - part_name: Part One
+     - part_name: Part Two
+     - part_name: Part Three
+
+chapters:
+     -  code: '010'
+        name: Lord Rayleigh
+        intro: Lord Rayleigh of Cavendish Laboratories in Cambridge was awarded the Nobel Prize in Physics 1904, "for investigations of the densities of the most important gases and for his discovery of argon in connection with these studies."
+        photo: rayleigh.jpg
+        starts_part: Part One
+     -  code: '020'
+        name: J.J. Thomson 
+        intro: J.J. Thomson of Cavendish Laboratories was awarded the Nobel Prize in Physics 1906 "in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases".
+        photo: jj_thomson.jpg
+     -  code: '030'
+        name: Lord Rutherford
+        intro: Lord Rutherford of Cavendish Laboratories won the Nobel Prize in Chemistry 1908, "for his investigations into the disintegration of the elements, and the chemistry of radioactive substances". 
+        photo: rutherford.jpg
+     -  code: '040'
+        name: William Lawrence Bragg 
+        intro: The Nobel Prize in Physics 1915 was awarded jointly to William Lawrence Bragg of Cavendish Laboratories and his father Sir William Henry Bragg "for their services in the analysis of crystal structure by means of X-rays"
+        photo: bragg.jpg
+     -  code: '050'
+        name: Charles Barkla
+        intro: Charles Barkla of Cavendish Laboratories was awarded the Nobel Prize in Physics 1917, "for his discovery of the characteristic R&#xF6;ntgen radiation of the elements".
+        photo: barkla.jpg
+     -  code: '060'
+        name: Francis Aston 
+        intro: Francis Aston of Cavendish Laboratories received the Nobel Prize in Chemistry 1922, "for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule."
+        photo: aston.jpg
+     -  code: '070'
+        name: Charles Wilson 
+        intro: Charles Wilson of Cavendish Laboratories was awarded the Nobel Prize in Physics 1927, "for his method of making the paths of electrically charged particles visible by condensation of vapour".
+        photo: wilson.jpg
+     -  code: '080'
+        name: Arthur Compton
+        intro: Arthur Compton of Cavendish Laboratories was awarded the Nobel Prize in Physics 1927 for demonstrating that scattered quanta (free electrons) have less energy than the quanta of the original beam which illustrates the particle concept of electromagnetic radiation.
+        photo: compton.jpg
+     -  code: '090'
+        name: Sir Owen Richardson
+        intro: Sir Owen Richardson of Cavendish Laboratories was awarded the Nobel Prize in Physics 1928, "for his work on the thermionic phenomenon and especially for the discovery of the law named after him".
+        photo: richardson.jpg
+     -  code: '100'
+        name: Sir James Chadwick
+        intro: Sir James Chadwick of Cavendish Laboratories was awarded the Nobel Prize in Physics 1935, "for the discovery of the neutron". This discovery provided a new tool for inducing atomic disintegration, since neutrons, being electrically uncharged, could penetrate into the atomic nucleus without deflections whereas protons cannot do so.
+        photo: chadwick.jpg
+     -  code: '110'
+        name: Sir George Thomson
+        intro: Sir George Thomson of Cavendish Laboratories shared the Nobel Prize in Physics in 1937, "for the experimental discovery of the diffraction of electrons by crystals". The process of electron diffraction, which these experiments established, has been widely used in the investigation of the surfaces of solids.
+        photo: g_thomson.jpg
+        starts_part: Part Two
+     -  code: '120'
+        name: Sir Edward Appleton
+        intro: Sir Edward Appleton of Cavendish Laboratories received the Nobel Prize in Physics 1947, "for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer".
+        photo: appleton.jpg
+        starts_part: Part Three
+     -  code: '130'
+        name: Lord Blackett
+        intro: Lord Blackett of Cavendish Laboratories received the Nobel Prize in Physics 1948, "for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation".
+        photo: blackett.jpg
+     -  code: '140'
+        name: Sir John Cockcroft
+        intro: Sir John Cockcroft of Cavendish Laboratories and Ernest Walton received the Nobel Prize in Physics 1951, "for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles".
+        photo: cockcroft.jpg
+     -  code: '150'
+        name: Ernest Walton
+        intro: Ernest Walton of Cavendish Laboratories was awarded the Nobel Prize in Physics 1951 (together with Cockcroft), "for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles".
+        photo: walton.jpg
+     -  code: '160'
+        name: Francis Crick
+        intro: In 1962, Francis Crick of Cavendish Laboratories shared the Nobel Prize for Physiology or Medicine with James Watson for defining the structure of DNA.
+        photo: crick.jpg
+     -  code: '170'
+        name: James Watson
+        intro: In 1962 James Watson of Cavendish Laboratories shared the Nobel Prize for Physiology or Medicine with Francis Crick for defining the structure of DNA.
+        photo: watson.jpg
+     -  code: '180'
+        name: Max Perutz
+        intro: Max Perutz of Cavendish Laboratories shared the Nobel Prize in Chemistry in 1962 with Sir John Kendrew after determining that attaching a single large atom (e.g. Mercury) to a molecule would change the X-ray diffraction pattern obtained from the crystal, making it possible to completely solve the structure of that molecule. 
+        photo: perutz.jpg
+     -  code: '190'
+        name: Sir John Kendrew
+        intro: Sir John Kendrew of Cavendish Laboratories shared the Nobel Prize in Chemistry in 1962 with Max Perutz for their discoveries of the structures of myoglobin and haemoglobin, and the development of the new technique they used to make these discoveries.
+        photo: kendrew.jpg
+     -  code: '200'
+        name: Dorothy Hodgkin
+        intro: Dorothy Hodgkin of Cavendish Laboratories was awarded the Nobel Prize in Chemistry 1964, "for her determinations by X-ray techniques of the structures of important biochemical substances".
+        photo: hodgkin.jpg
+     -  code: '210'
+        name: Brian Josephson
+        intro: Brian Josephson of Cavendish Laboratories received the Nobel Prize in Physics 1973, "for his theoretical predictions of the properties of a super-current through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects"
+        photo: josephson.jpg
+     -  code: '220'
+        name: Sir Martin Ryle
+        intro: Sir Martin Ryle of Cavendish Laboratories shared the Nobel Prize for Physics 1974 with Antony Hewish. Ryle was rewarded for his observations and inventions, in particular of the aperture synthesis in relation to astronomical research.
+        photo: ryle.jpg
+     -  code: '230'
+        name: Anthony Hewish
+        intro: Anthony Hewish of Cavendish Laboratories shared the Nobel Prize for Physics 1974 with Sir Martin Ryle, "for their pioneering research in radio astrophysics, Hewish was recognized for his decisive role in the discovery of pulsars."
+        photo: hewish.jpg
+     -  code: '240'
+        name: Sir Nevill Mott
+        intro: Sir Nevill Mott of Cavendish Laboratories was awarded the Nobel Prize in Physics 1977 (shared with Anderson and van Vleck), "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems".
+        photo: mott.jpg
+     -  code: '250'
+        name: Phillip Anderson
+        intro: Phillip Anderson of Cavendish Laboratories was awarded the Nobel Prize in Physics 1977 (shared with Mott and van Vleck), "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems".
+        photo: anderson.jpg
+     -  code: '260'
+        name: Pjotr Kapitsa
+        intro: Pjotr Kapitsa of Cavendish Laboratories was awarded the Nobel Prize in Physics 1978, "for his basic inventions and discoveries in the area of low-temperature physics."
+        photo: kapitsa.jpg
+     -  code: '270'
+        name: Allan Cormac
+        intro: Allan Cormac of Cavendish Laboratories received the Nobel Prize in Medicine 1979 (shared with Hounsfield), "for the development of computer assisted tomography."
+        photo: cormac.jpg
+     -  code: '280'
+        name: Sir Aaron Klug
+        intro: Sir Aaron Klug of Cavendish Laboratories was awarded the Nobel Prize in Chemistry 1982, "for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes."
+        photo: klug.jpg
+     -  code: '290'
+        name: Norman Ramsey
+        intro: Norman Ramsey of Cavendish Laboratories received the Nobel Prize in Physics 1989, "for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks".
+        photo: ramsey.jpg
+     -  code: '300'
+        name: Jerome
+       
+back_matter: 
+        - name: description
+        - name: about_author
+        - name: copyright
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f

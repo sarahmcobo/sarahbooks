@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ****starting to cook***** at 2015-06-24 19:45:19.178660 (Ireland time)
 
 cook_dir: /home/ubuntu/books/sarahmcobo/sarahbooks
@@ -12,4 +13,51 @@ creating new empty chapter:030
 chapter count: 3
 ePubChef is finished, see /franklin_served.
 zipping up to .epub at: /home/ubuntu/books/sarahmcobo/sarahbooks/franklin_served/franklin.epub
+=======
+****starting to cook***** at 2015-04-20 20:13:43.257622 (Ireland time)
+
+cook_dir: /home/ubuntu/ePubChef_sarahbooks
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/debug
+Opening recipe for: /home/ubuntu/ePubChef_sarahbooks/franklin_raw/franklin_recipe.txt
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/franklin_cooked
+Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
+front_matter count: 4
+chapter count: 30
+PART: {'part_name': 'Part One', 'playorder': 5}
+  CHAPTER:010
+  CHAPTER:020
+  CHAPTER:030
+  CHAPTER:040
+  CHAPTER:050
+  CHAPTER:060
+  CHAPTER:070
+  CHAPTER:080
+  CHAPTER:090
+  CHAPTER:100
+PART: {'part_name': 'Part Two', 'playorder': 16}
+  CHAPTER:110
+PART: {'part_name': 'Part Three', 'playorder': 18}
+  CHAPTER:120
+  CHAPTER:130
+  CHAPTER:140
+  CHAPTER:150
+  CHAPTER:160
+  CHAPTER:170
+  CHAPTER:180
+  CHAPTER:190
+  CHAPTER:200
+  CHAPTER:210
+  CHAPTER:220
+  CHAPTER:230
+  CHAPTER:240
+  CHAPTER:250
+  CHAPTER:260
+  CHAPTER:270
+  CHAPTER:280
+  CHAPTER:290
+  CHAPTER:300
+ePubChef is finished, see /franklin_served.
+zipping up to .epub at: /home/ubuntu/ePubChef_sarahbooks/franklin_served/franklin.epub
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_sarahbooks/franklin_served
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
 All done

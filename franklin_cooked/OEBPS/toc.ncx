@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
   <head>
+<<<<<<< HEAD
     <meta content="jcobobooks.com.epub-samples.demo" name="dtb:uid" />
+=======
+    <meta content="jcobobooks.com.headsandtails" name="dtb:uid" />
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
     <meta content="1" name="dtb:depth" /> 
     <meta content="0" name="dtb:totalPageCount" />
     <meta content="0" name="dtb:maxPageNumber" />
   </head>
   <docTitle>
+<<<<<<< HEAD
     <text>franklin</text>
   </docTitle>
   <docAuthor>
     <text>Ann Author</text>
+=======
+    <text>Heads and Tails</text>
+  </docTitle>
+  <docAuthor>
+    <text>John Cobo</text>
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
   </docAuthor>
   <navMap>
    <!-- front matter -->
@@ -32,6 +43,7 @@
    </navPoint>
    
    <!-- Parts and Chapters -->
+<<<<<<< HEAD
        <navPoint id="ncx_h2-1" playOrder="5">
          <navLabel><text>Chapter 1 - The First Chapter</text></navLabel>
          <content src="content/chap001.xhtml#h2-1" />
@@ -55,5 +67,153 @@
       <navLabel><text>About Author</text></navLabel>
       <content src="about_author.xhtml" />
     </navPoint>
+=======
+     <navPoint id="ncx_5" playOrder="5">
+     <navLabel><text>Part One</text></navLabel>
+     <content src="content/chap001.xhtml#part" />
+       <navPoint id="ncx_h2-1" playOrder="6">
+         <navLabel><text>Chapter 1 - Lord Rayleigh</text></navLabel>
+         <content src="content/chap001.xhtml#h2-1" />
+       </navPoint>
+       <navPoint id="ncx_h2-2" playOrder="7">
+         <navLabel><text>Chapter 2 - J.J. Thomson</text></navLabel>
+         <content src="content/chap002.xhtml#h2-2" />
+       </navPoint>
+       <navPoint id="ncx_h2-3" playOrder="8">
+         <navLabel><text>Chapter 3 - Lord Rutherford</text></navLabel>
+         <content src="content/chap003.xhtml#h2-3" />
+       </navPoint>
+       <navPoint id="ncx_h2-4" playOrder="9">
+         <navLabel><text>Chapter 4 - William Lawrence Bragg</text></navLabel>
+         <content src="content/chap004.xhtml#h2-4" />
+       </navPoint>
+       <navPoint id="ncx_h2-5" playOrder="10">
+         <navLabel><text>Chapter 5 - Charles Barkla</text></navLabel>
+         <content src="content/chap005.xhtml#h2-5" />
+       </navPoint>
+       <navPoint id="ncx_h2-6" playOrder="11">
+         <navLabel><text>Chapter 6 - Francis Aston</text></navLabel>
+         <content src="content/chap006.xhtml#h2-6" />
+       </navPoint>
+       <navPoint id="ncx_h2-7" playOrder="12">
+         <navLabel><text>Chapter 7 - Charles Wilson</text></navLabel>
+         <content src="content/chap007.xhtml#h2-7" />
+       </navPoint>
+       <navPoint id="ncx_h2-8" playOrder="13">
+         <navLabel><text>Chapter 8 - Arthur Compton</text></navLabel>
+         <content src="content/chap008.xhtml#h2-8" />
+       </navPoint>
+       <navPoint id="ncx_h2-9" playOrder="14">
+         <navLabel><text>Chapter 9 - Sir Owen Richardson</text></navLabel>
+         <content src="content/chap009.xhtml#h2-9" />
+       </navPoint>
+       <navPoint id="ncx_h2-10" playOrder="15">
+         <navLabel><text>Chapter 10 - Sir James Chadwick</text></navLabel>
+         <content src="content/chap010.xhtml#h2-10" />
+       </navPoint>
+     </navPoint>
+     <navPoint id="ncx_16" playOrder="16">
+     <navLabel><text>Part Two</text></navLabel>
+     <content src="content/chap011.xhtml#part" />
+       <navPoint id="ncx_h2-11" playOrder="17">
+         <navLabel><text>Chapter 11 - Sir George Thomson</text></navLabel>
+         <content src="content/chap011.xhtml#h2-11" />
+       </navPoint>
+     </navPoint>
+     <navPoint id="ncx_18" playOrder="18">
+     <navLabel><text>Part Three</text></navLabel>
+     <content src="content/chap012.xhtml#part" />
+       <navPoint id="ncx_h2-12" playOrder="19">
+         <navLabel><text>Chapter 12 - Sir Edward Appleton</text></navLabel>
+         <content src="content/chap012.xhtml#h2-12" />
+       </navPoint>
+       <navPoint id="ncx_h2-13" playOrder="20">
+         <navLabel><text>Chapter 13 - Lord Blackett</text></navLabel>
+         <content src="content/chap013.xhtml#h2-13" />
+       </navPoint>
+       <navPoint id="ncx_h2-14" playOrder="21">
+         <navLabel><text>Chapter 14 - Sir John Cockcroft</text></navLabel>
+         <content src="content/chap014.xhtml#h2-14" />
+       </navPoint>
+       <navPoint id="ncx_h2-15" playOrder="22">
+         <navLabel><text>Chapter 15 - Ernest Walton</text></navLabel>
+         <content src="content/chap015.xhtml#h2-15" />
+       </navPoint>
+       <navPoint id="ncx_h2-16" playOrder="23">
+         <navLabel><text>Chapter 16 - Francis Crick</text></navLabel>
+         <content src="content/chap016.xhtml#h2-16" />
+       </navPoint>
+       <navPoint id="ncx_h2-17" playOrder="24">
+         <navLabel><text>Chapter 17 - James Watson</text></navLabel>
+         <content src="content/chap017.xhtml#h2-17" />
+       </navPoint>
+       <navPoint id="ncx_h2-18" playOrder="25">
+         <navLabel><text>Chapter 18 - Max Perutz</text></navLabel>
+         <content src="content/chap018.xhtml#h2-18" />
+       </navPoint>
+       <navPoint id="ncx_h2-19" playOrder="26">
+         <navLabel><text>Chapter 19 - Sir John Kendrew</text></navLabel>
+         <content src="content/chap019.xhtml#h2-19" />
+       </navPoint>
+       <navPoint id="ncx_h2-20" playOrder="27">
+         <navLabel><text>Chapter 20 - Dorothy Hodgkin</text></navLabel>
+         <content src="content/chap020.xhtml#h2-20" />
+       </navPoint>
+       <navPoint id="ncx_h2-21" playOrder="28">
+         <navLabel><text>Chapter 21 - Brian Josephson</text></navLabel>
+         <content src="content/chap021.xhtml#h2-21" />
+       </navPoint>
+       <navPoint id="ncx_h2-22" playOrder="29">
+         <navLabel><text>Chapter 22 - Sir Martin Ryle</text></navLabel>
+         <content src="content/chap022.xhtml#h2-22" />
+       </navPoint>
+       <navPoint id="ncx_h2-23" playOrder="30">
+         <navLabel><text>Chapter 23 - Anthony Hewish</text></navLabel>
+         <content src="content/chap023.xhtml#h2-23" />
+       </navPoint>
+       <navPoint id="ncx_h2-24" playOrder="31">
+         <navLabel><text>Chapter 24 - Sir Nevill Mott</text></navLabel>
+         <content src="content/chap024.xhtml#h2-24" />
+       </navPoint>
+       <navPoint id="ncx_h2-25" playOrder="32">
+         <navLabel><text>Chapter 25 - Phillip Anderson</text></navLabel>
+         <content src="content/chap025.xhtml#h2-25" />
+       </navPoint>
+       <navPoint id="ncx_h2-26" playOrder="33">
+         <navLabel><text>Chapter 26 - Pjotr Kapitsa</text></navLabel>
+         <content src="content/chap026.xhtml#h2-26" />
+       </navPoint>
+       <navPoint id="ncx_h2-27" playOrder="34">
+         <navLabel><text>Chapter 27 - Allan Cormac</text></navLabel>
+         <content src="content/chap027.xhtml#h2-27" />
+       </navPoint>
+       <navPoint id="ncx_h2-28" playOrder="35">
+         <navLabel><text>Chapter 28 - Sir Aaron Klug</text></navLabel>
+         <content src="content/chap028.xhtml#h2-28" />
+       </navPoint>
+       <navPoint id="ncx_h2-29" playOrder="36">
+         <navLabel><text>Chapter 29 - Norman Ramsey</text></navLabel>
+         <content src="content/chap029.xhtml#h2-29" />
+       </navPoint>
+       <navPoint id="ncx_h2-30" playOrder="37">
+         <navLabel><text>Chapter 30 - Jerome</text></navLabel>
+         <content src="content/chap030.xhtml#h2-30" />
+       </navPoint>
+     </navPoint>
+   
+   <!-- back matter -->
+   <navPoint id="ncx_description" playOrder="38">
+      <navLabel><text>Description</text></navLabel>
+      <content src="description.xhtml" />
+    </navPoint>
+   <navPoint id="ncx_about_author" playOrder="39">
+      <navLabel><text>About Author</text></navLabel>
+      <content src="about_author.xhtml" />
+    </navPoint>
+   <navPoint id="ncx_copyright" playOrder="40">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml" />
+    </navPoint>
+>>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
   </navMap>
 </ncx>
