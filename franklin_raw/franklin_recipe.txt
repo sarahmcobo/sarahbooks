@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-title: franklin
+title: Franklin
 author: Ann Author
 file_as: Author, Ann
 identifier: jcobobooks.com.epub-samples.demo
@@ -18,54 +16,12 @@ subjects:
       - name: PUBLISHING
 
 front_matter: # must include "cover", "title_page", and "table_of_contents" (in any order)
-=======
-file_name: headsandtails 
-title: Heads and Tails
-author: John Cobo
-file_as: Cobo, John
-identifier: jcobobooks.com.headsandtails
-coverdesign: Erin Cobo
-publish_date: 2015-02-01
-uuid: urn:uuid:57b681b5-137b-4791-b5c5-99fdcfaa41ee
-publisher: John Cobo
-contributor: Sarah Cobo
-attributionURL: http://cobobook.com/about
-auto_dropcaps: True
-meta_descn: A present day Sci-fi with historical undertones.
-subjects: 
-      - name: FICTION
-      - name: SCIENCE
-      - name: HISTORY
 
-front_matter:
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
      - name: cover
      - name: title_page
      - name: table_of_contents
      - name: dedication
 
-<<<<<<< HEAD
-#parts:
-#     - part_name: Part One
-#     - part_name: Part Two
-     
-chapters:
-     -  code: '010'
-        name: The First Chapter
-        intro: This will be a great chapter.
-        #starts_part: Part One
-     -  code: '020'
-        name: The Second Chapter
-        intro: This will be a fabulous chapter.
-     -  code: '030'
-        name: The Third Chapter
-        intro: This will be a groovy chapter.
-        #starts_part: Part Two
-
-back_matter: 
-     - name: description
-     - name: about_author
-=======
 parts:
      - part_name: Part One
      - part_name: Part Two
@@ -198,4 +154,3 @@ back_matter:
         - name: description
         - name: about_author
         - name: copyright
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
