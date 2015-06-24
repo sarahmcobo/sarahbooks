@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
   <head>
-<<<<<<< HEAD
     <meta content="jcobobooks.com.epub-samples.demo" name="dtb:uid" />
-=======
-    <meta content="jcobobooks.com.headsandtails" name="dtb:uid" />
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
     <meta content="1" name="dtb:depth" /> 
     <meta content="0" name="dtb:totalPageCount" />
     <meta content="0" name="dtb:maxPageNumber" />
   </head>
   <docTitle>
-<<<<<<< HEAD
-    <text>franklin</text>
+    <text>Franklin</text>
   </docTitle>
   <docAuthor>
     <text>Ann Author</text>
-=======
-    <text>Heads and Tails</text>
-  </docTitle>
-  <docAuthor>
-    <text>John Cobo</text>
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
   </docAuthor>
   <navMap>
    <!-- front matter -->
@@ -43,31 +32,6 @@
    </navPoint>
    
    <!-- Parts and Chapters -->
-<<<<<<< HEAD
-       <navPoint id="ncx_h2-1" playOrder="5">
-         <navLabel><text>Chapter 1 - The First Chapter</text></navLabel>
-         <content src="content/chap001.xhtml#h2-1" />
-       </navPoint>
-       <navPoint id="ncx_h2-2" playOrder="6">
-         <navLabel><text>Chapter 2 - The Second Chapter</text></navLabel>
-         <content src="content/chap002.xhtml#h2-2" />
-       </navPoint>
-       <navPoint id="ncx_h2-3" playOrder="7">
-         <navLabel><text>Chapter 3 - The Third Chapter</text></navLabel>
-         <content src="content/chap003.xhtml#h2-3" />
-       </navPoint>
-     
-   
-   <!-- back matter -->
-   <navPoint id="ncx_description" playOrder="8">
-      <navLabel><text>Description</text></navLabel>
-      <content src="description.xhtml" />
-    </navPoint>
-   <navPoint id="ncx_about_author" playOrder="9">
-      <navLabel><text>About Author</text></navLabel>
-      <content src="about_author.xhtml" />
-    </navPoint>
-=======
      <navPoint id="ncx_5" playOrder="5">
      <navLabel><text>Part One</text></navLabel>
      <content src="content/chap001.xhtml#part" />
@@ -214,6 +178,5 @@
       <navLabel><text>Copyright</text></navLabel>
       <content src="copyright.xhtml" />
     </navPoint>
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
   </navMap>
 </ncx>

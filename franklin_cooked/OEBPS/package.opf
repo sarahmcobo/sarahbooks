@@ -3,8 +3,7 @@
          unique-identifier="pub-id" 
 		 prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-<<<<<<< HEAD
-    <dc:title id="title">franklin</dc:title>
+    <dc:title id="title">Franklin</dc:title>
     <meta refines="#title" property="title-type">main</meta>
     <dc:creator id="creator">Ann Author</dc:creator>
     <meta refines="#creator" property="file-as">Author, Ann</meta>
@@ -16,20 +15,6 @@
     <meta property="dcterms:modified">2012-01-18T12:47:00Z</meta>
     <dc:publisher>A. Publisher</dc:publisher>
     <dc:contributor id="contrib1">Collab Orator</dc:contributor>
-=======
-    <dc:title id="title">Heads and Tails</dc:title>
-    <meta refines="#title" property="title-type">main</meta>
-    <dc:creator id="creator">John Cobo</dc:creator>
-    <meta refines="#creator" property="file-as">Cobo, John</meta>
-    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-    <dc:identifier id="pub-id">jcobobooks.com.headsandtails</dc:identifier>
-	<dc:identifier id="uid">urn:uuid:57b681b5-137b-4791-b5c5-99fdcfaa41ee</dc:identifier>
-    <meta refines="#uid" property="identifier-type" scheme="onix:codelist5">ISBN</meta>
-    <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2012-01-18T12:47:00Z</meta>
-    <dc:publisher>John Cobo</dc:publisher>
-    <dc:contributor id="contrib1">Sarah Cobo</dc:contributor>
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
     <meta refines="#contrib1" property="role" scheme="marc:relators">mrk</meta>
     <dc:rights>This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.</dc:rights>        
 	<meta property="ibooks:specified-fonts">true</meta>
@@ -51,14 +36,6 @@
     <item id="chap001" href="content/chap001.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap002" href="content/chap002.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap003" href="content/chap003.xhtml"  media-type="application/xhtml+xml" />
-<<<<<<< HEAD
-
-    <item id="description"  href="description.xhtml" media-type="application/xhtml+xml" />
-    <item id="about_author"  href="about_author.xhtml" media-type="application/xhtml+xml" />
-    
-    <item id="img1" href="images/epubchef_logo.jpg" media-type="image/jpeg" />
-	<item id="cover-image" properties="cover-image" href="images/cover_image.jpg" media-type="image/jpeg"/>
-=======
     <item id="chap004" href="content/chap004.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap005" href="content/chap005.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap006" href="content/chap006.xhtml"  media-type="application/xhtml+xml" />
@@ -123,7 +100,6 @@
     <item id="img30" href="images/aston.jpg" media-type="image/jpeg" />
     <item id="img31" href="images/compton.jpg" media-type="image/jpeg" />
     <item id="img32" href="images/perutz.jpg" media-type="image/jpeg" />
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
 
   </manifest>
  
@@ -135,10 +111,6 @@
     <itemref idref="chap001" linear="yes"/>
     <itemref idref="chap002" linear="yes"/>
     <itemref idref="chap003" linear="yes"/>
-<<<<<<< HEAD
-    <itemref idref="description" linear="yes"/>
-    <itemref idref="about_author" linear="yes"/>
-=======
     <itemref idref="chap004" linear="yes"/>
     <itemref idref="chap005" linear="yes"/>
     <itemref idref="chap006" linear="yes"/>
@@ -169,6 +141,5 @@
     <itemref idref="description" linear="yes"/>
     <itemref idref="about_author" linear="yes"/>
     <itemref idref="copyright" linear="yes"/>
->>>>>>> ba46ba4fd2244d6bb462ecdb2454d469722d3f7f
   </spine>
 </package>
