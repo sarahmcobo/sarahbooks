@@ -1,7 +1,6 @@
-****starting to cook***** at 2015-06-24 19:58:30.544461 (Ireland time)
+****starting to cook***** at 2015-07-19 08:15:48.095897 (Ireland time)
 
 cook_dir: /home/ubuntu/books/sarahmcobo/sarahbooks
-deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/sarahbooks/debug
 Opening recipe for: /home/ubuntu/books/sarahmcobo/sarahbooks/franklin_raw/franklin_recipe.txt
 deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/sarahbooks/franklin_cooked
 Opening Point Of Sale data for: franklin_raw/franklin_pos_data.txt
@@ -42,5 +41,4 @@ PART: {'part_name': 'Part Three', 'playorder': 18}
   CHAPTER:300
 ePubChef is finished, see /franklin_served.
 zipping up to .epub at: /home/ubuntu/books/sarahmcobo/sarahbooks/franklin_served/franklin.epub
-deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/sarahbooks/franklin_served
 All done
